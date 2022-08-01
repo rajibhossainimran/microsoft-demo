@@ -31,3 +31,27 @@
     margin-top: 10px;
     margin-left: 4%;
 }
+
+.free-image {
+    height: 250px;
+}
+
+.top-paid-image {
+    height: 150px;
+}
+
+.top-paid-card {
+    max-height: 150px;
+}
+
+.top-paid-game-a-tag {
+    text-decoration: none;
+}
+
+.main-container {
+    background-color: rgb(235, 230, 230);
+}
+
+.best-rated-sub-container {
+    height: 500px;
+}
